@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Fernando Barbosa
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Fernando Barbosa, tenho 26 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na uninove. Sou apaixonado por tecnologia.
 
