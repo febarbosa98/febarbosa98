@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fernando Barbosa
+#  Fernando Barbosa
 
 **`Desenvolvedor Front-End`**
 
