@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Fernando Barbosa, tenho 26 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na uninove. Sou apaixonado por tecnologia.
+Me chamo Fernando Barbosa, tenho 27 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na uninove. Sou apaixonado por tecnologia.
 
 <p align="left">
       <a href="https://github.com/febarbosa98?tab=repositories&sort=stargazers">
